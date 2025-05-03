@@ -5,3 +5,5 @@ discdir
 *.iso
 *~
 
+/IPV6-BDJ-etaHEN.iml
+/.idea/
