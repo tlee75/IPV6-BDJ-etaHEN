@@ -41,8 +41,8 @@ CLASSPATH := $(BDJSDK_HOME)/target/lib/enhanced-stubs.zip:$(BDJSDK_HOME)/target/
 SOURCES   := $(wildcard src/org/homebrew/*.java)
 JFLAGS    := -Xlint:-options
 
-ELFLDR_URL  := https://github.com/ps5-payload-dev/elfldr/releases/latest/download/Payload.zip
-ETAHEN_URL :=  https://github.com/etaHEN/etaHEN/releases/download/2.0b/etaHEN-2.0b.bin
+ELFLDR_URL := https://github.com/ps5-payload-dev/elfldr/releases/latest/download/Payload.zip
+ETAHEN_URL := https://github.com/etaHEN/etaHEN/releases/download/2.1B/etaHEN.bin
 
 #
 # Disc files
